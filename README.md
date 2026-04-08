@@ -2,16 +2,27 @@
 Script para analisar a performance do servidor.
 https://roadmap.sh/projects/server-stats
 
-A bash script to analyse basic server performance stats.
+# 🚀 Server Stats - Monitor de Performance Linux
 
-Getting Started
-Clone the repository
+[![Bash](https://img.shields.io/badge/Language-Bash-green?style=for-the-badge&logo=gnu-bash)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/Platform-Linux-blue?style=for-the-badge&logo=linux)](https://www.linux.org/)
 
-git clone https://github.com/AMM48/devops-lab.git
-cd server-performance-stats
-Make the script executable
+Um script leve e eficiente para analisar instantaneamente a saúde do seu servidor. Este projeto foi desenvolvido para fornecer métricas essenciais de CPU, Memória, Disco e Processos em um único comando.
 
-chmod +x server-stats.sh
-Execute the script
+## 📋 Funcionalidades
+- 🧠 **CPU:** Uso total calculado (100% - Idle).
+- 💾 **Memória:** Total vs. Usada com porcentagem exata.
+- 💽 **Disco:** Espaço disponível na partição raiz.
+- 🔝 **Processos:** Top 5 maiores consumidores de CPU e RAM em formato de tabela.
 
-./server-stats.sh
+## 🚀 Como Executar
+
+1. **Clone o repositório ou baixe o arquivo:**
+   ```bash
+   git clone [https://github.com/seu-usuario/server-stats.git](https://github.com/seu-usuario/server-stats.git)
+   cd server-stats
+   
+2. **Dê permissão de execução:**
+  ```bash
+  chmod +x server-stats.sh
+
