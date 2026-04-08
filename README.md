@@ -33,4 +33,5 @@ Um script leve e eficiente para analisar instantaneamente a saúde do seu servid
    ./server-stats.sh
 
 ## 🎯 Contexto do Projeto
-Este projeto foi desenvolvido como parte do caminho de aprendizado da [roadmap.sh](https://roadmap.sh/devops/projects), focado em desafios reais de **DevOps**. O objetivo é consolidar conhecimentos em automação de tarefas, manipulação de fluxos de dados no Linux e monitorização de recursos.
+Este projeto foi desenvolvido como parte do caminho de aprendizado da [roadmap.sh](https://roadmap.sh/projects/github-actions-deployment-workflow), focado em desafios reais de **DevOps**. O objetivo é consolidar conhecimentos em automação de tarefas, manipulação de fluxos de dados no Linux e monitorização de recursos.
+
